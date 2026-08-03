@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BG Remover</string>
+    <string name="tagline">AI Powered • 100% Offline</string>
+    <string name="empty_state_title">No image selected</string>
+    <string name="empty_state_subtitle">Pick a photo from your gallery or take one with the camera to get started</string>
+    <string name="processing_label">Removing background…</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_remove_bg">Remove Background</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_compare">Hold to Compare</string>
+</resources>
